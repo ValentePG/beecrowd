@@ -31,6 +31,7 @@ class URI {
         for (int i = 0; i < values.Length; i++)
         {
             Console.WriteLine($"{notes[i]} nota(s) de R$ {values[i]},00");
+            
         };
         
     }
